@@ -1,6 +1,6 @@
 # EcoSync 🌱 - AI-Powered Carbon Footprint Tracker
 
-EcoSync is a full-stack personal carbon footprint tracker that monitors daily CO₂ emissions from transportation, diet, and energy usage. Using historical logging and **Google Gemini AI**, the application analyzes your emission patterns and provides personalized, actionable recommendations to help reduce your carbon footprint.
+EcoSync is a full-stack personal carbon footprint tracker that monitors daily CO₂ emissions from transportation, diet, and energy usage. Using historical logging and **Google Gemini AI**, the application analyses your emission patterns and provides personalised, actionable recommendations to help reduce your carbon footprint.
 
 ---
 
@@ -156,4 +156,4 @@ Make sure you have [Bun](https://bun.sh/) installed on your machine.
 EcoSync calculates your daily footprint using standard climate estimation factors:
 *   **Transport (CO₂ per km)**: `car` (0.170kg), `public_transport` (0.040kg), `bike` / `walk` (0.0kg).
 *   **Diet (CO₂ per day average)**: `meat_heavy` (3.0kg), `vegetarian` (1.2kg), `vegan` (0.7kg).
-*   **Electricity**: Average grid emission factor is calculated at `0.4kg` of CO₂ per `1.0 kWh`.
+*   **Electricity**: The average grid emission factor is calculated at `0.4kg` of CO₂ per `1.0 kWh`.

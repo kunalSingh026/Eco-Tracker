@@ -151,7 +151,7 @@ Make sure you have [Bun](https://bun.sh/) installed on your machine.
 
 ---
 
-## ⚡ Emission Formula Coefficients
+## ⚡💥 Emission Formula Coefficients
 
 EcoSync calculates your daily footprint using standard climate estimation factors:
 *   **Transport (CO₂ per km)**: `car` (0.170kg), `public_transport` (0.040kg), `bike` / `walk` (0.0kg).
